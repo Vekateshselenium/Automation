@@ -8,6 +8,7 @@ public class P1 {
 public void tc1() {
 	FirefoxDriver driver=new FirefoxDriver();
 	driver.get("https://www.facebook.com");
+	System.out.println("hello world");
 }
 
 	
